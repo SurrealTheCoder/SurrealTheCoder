@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm SurrealTheCoder, or Ryan. I'm a college student studying Front-End Web Developerment :)
+I'm SurrealTheCoder, or Ryan. I'm a college student studying Front-End Web Development :)
 
 <!--
 **SurrealTheCoder/SurrealTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
